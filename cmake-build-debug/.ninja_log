@@ -1,0 +1,10 @@
+# ninja log v5
+6	891	1714087836531564362	CMakeFiles/lab6.dir/tests/Tests.cpp.o	c539643da7b5fe
+453	543	1714087850344680699	lab6	383065dcc8b24c77
+14	671	1713508476585186241	CMakeFiles/lab6.dir/validator/ProductsValidator.cpp.o	c2e84b0bd530264f
+3	453	1714087850252917908	CMakeFiles/lab6.dir/main.cpp.o	6ec35662ddea6870
+5	847	1714087836482897847	CMakeFiles/lab6.dir/service/ProductsService.cpp.o	20a4c31d05dc6669
+5	801	1714087836424705364	CMakeFiles/lab6.dir/repository/ProductsRepo.cpp.o	482c54137cc6e3a3
+6	888	1714087836524948034	CMakeFiles/lab6.dir/ui/ProductsUI.cpp.o	d0943be109d178f1
+13	663	1713508476574125825	CMakeFiles/lab6.dir/domain/Produs.cpp.o	8ae354df3e1cf04
+8	871	1714087836509587201	CMakeFiles/lab6.dir/repository/CosRepo.cpp.o	e525fa767e170f5f

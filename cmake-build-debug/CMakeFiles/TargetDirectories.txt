@@ -1,0 +1,8 @@
+/Users/danielpantiuc/oop/lab6-7/cmake-build-debug/CMakeFiles/untitled10.dir
+/Users/danielpantiuc/oop/lab6-7/cmake-build-debug/CMakeFiles/lab6.dir
+/Users/danielpantiuc/oop/lab6-7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielpantiuc/oop/lab6-7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/danielpantiuc/oop/lab6-7/cmake-build-debug/CMakeFiles/untitled10_autogen_timestamp_deps.dir
+/Users/danielpantiuc/oop/lab6-7/cmake-build-debug/CMakeFiles/untitled10_autogen.dir
+/Users/danielpantiuc/oop/lab6-7/cmake-build-debug/CMakeFiles/lab6_autogen_timestamp_deps.dir
+/Users/danielpantiuc/oop/lab6-7/cmake-build-debug/CMakeFiles/lab6_autogen.dir
